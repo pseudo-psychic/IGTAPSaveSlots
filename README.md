@@ -153,7 +153,7 @@ Before any file operation, a `WORKING` sentinel file is written describing what'
 
 | Path | Description |
 |------|-------------|
-| `BepInEx/plugins/../IGTAP_SaveSlots/Slot_0` … `Slot_9` | The 10 save slots |
+| `BepInEx/IGTAP_SaveSlots/Slot_0` … `Slot_9` | The 10 save slots |
 | `IGTAP_SaveSlots/Backup_BeforeLoad/` | Auto-backup taken before each load |
 | `IGTAP_SaveSlots/WORKING` | Crash-recovery sentinel (deleted after successful ops) |
 | `%USERPROFILE%/AppData/LocalLow/Pepper tango games/IGTAP/` | Game's live save directory |
