@@ -163,7 +163,6 @@ Before any file operation, a `WORKING` sentinel file is written describing what'
 ## Notes
 
 - `.log` files are never copied or deleted — `Player.log` is left untouched in all operations.
-- If `Saveloader` or `pauseMenuScript` components aren't found in the current scene (e.g. you're on the main menu), saving will still work but without triggering an in-game save first — a warning will be logged.
 - Slots display `[empty]` indicator if they do not contain data.
 
 ---
