@@ -1,0 +1,6 @@
+# built programs
+bin/
+obj/
+
+# vs settings
+.vs/
