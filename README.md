@@ -1,4 +1,4 @@
-# IGTAP Save Slot Manager
+# IGTAP Save Slot Manager Plugin
 
 A BepInEx mod for **IGTAP — *An Incremental Game That's Also a Platformer*** that adds a 10-slot save state system — useful for TAS work, sequence experimentation, or just keeping multiple checkpoints.
 
