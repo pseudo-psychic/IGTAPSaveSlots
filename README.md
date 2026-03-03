@@ -22,7 +22,7 @@ A BepInEx mod for **IGTAP — *An Incremental Game That's Also a Platformer*** t
 * Plugin download:
   https://github.com/pseudo-psychic/IGTAPSaveSlots/releases/
 
-Tested on **March 1, 2026**.
+Tested on **March 2, 2026**.
 
 ---
 
