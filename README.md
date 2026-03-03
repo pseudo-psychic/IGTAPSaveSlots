@@ -118,21 +118,6 @@ IGTAP/
 
 ---
 
-## Troubleshooting
-
-**Plugin not loading?**
-
-Check:
-
-* `BepInEx` folder exists beside `IGTAP.exe`
-* `winhttp.dll` is present
-* Plugin `.dll` is inside `BepInEx/plugins`
-* Game was launched once after installing BepInEx
-
-If BepInEx installed correctly, a console window should appear when the game starts.
-
----
-
 ## Controls
 
 | Key | Action |
